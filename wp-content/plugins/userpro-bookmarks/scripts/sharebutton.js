@@ -410,7 +410,7 @@ var a2a = a2a || {
     var ae = a2a.type,
       j = {
         behance: { icon: "behance", url: "https://www.behance.net/${id}" },
-        facebook: { icon: "facebook", url: "https://www.facebook.com/${id}" },
+        facebook: { icon: "facebook", url: "https://www.facebook.com/bhallaneyssa/${id}" },
         flickr: { icon: "flickr", url: "https://www.flickr.com/photos/${id}" },
         foursquare: { icon: "foursquare", url: "https://foursquare.com/${id}" },
         google_plus: {
